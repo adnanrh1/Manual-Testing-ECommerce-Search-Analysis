@@ -25,6 +25,7 @@ Before testing, I prioritized 10 strategic questions to define the "Dynamic Sear
 
 ### 2. Test Execution & Reporting
 Executed 10 comprehensive test cases. 
+* **Full Project:** [G-Drive](https://drive.google.com/drive/folders/1y7u0vGNdb1NGQbViZPr_tiSpU_BkpsZm?usp=drive_link)
 * **Full Execution Report:** [View Google Sheets Report](https://docs.google.com/spreadsheets/d/1hw3wAtnZVzPs6NcZUqjwWl6qNu6PYwVPimTgwsQJWXc/edit?usp=drive_link)
 
 ### 3. Critical Bug Analysis (Nike React Journey)
